@@ -1,22 +1,29 @@
 ## Hi there, I'm Hanik Sator 👋
 
-**Computer Science @ DePaul University** (B.S., Class of 2026)
-Chicago, IL
-GPA: **4.0** | Dean's List (Fall, Winter, Spring)
+**Software Engineer based in Chicago**
+B.S. Computer Science, DePaul University (Dec 2025)
+GPA: **4.0** · Dean's List (2023-2025)
+
+---
+
+## What I Do
+
+I enjoy building reliable backend systems, clean web applications, and practical tools that solve real problems.  
+Most of my work centers around **Java**, **Python**, and modern web technologies.
 
 ---
 
 ## Skills
-- **Languages**: Python, Java, C, C++, SQL, JavaScript, HTML/CSS, Scala
-- **Frameworks/Tools**: Django, Flask, Spring Boot, Docker
-- **Databases**: PostgreSQL, Oracle SQL, SQLite
-- **Other**: Git/GitHub, IntelliJ, VS Code, Linux
+- **Languages**: Python, Java, C, C++, SQL, JavaScript, HTML/CSS, SQL, Scala
+- **Frameworks & Tools**: Django, Flask, Spring Boot, Docker, Git/GitHub, JUnit
+- **Databases**: PostgreSQL, Oracle, SQLite
+- **Other**: IntelliJ, VS Code, Linux
 
 ### Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
@@ -47,23 +54,19 @@ GPA: **4.0** | Dean's List (Fall, Winter, Spring)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ---
 
 ## Featured Projects
-- **FreshTrack** – Household inventory management system with UPC scanning, drag-and-drop containers, and expiration alerts.  
+- **FreshTrack** – Household inventory management system using **Django** and **PostgreSQL** with product tracking, drag-and-drop containers, and expiration alerts.  
 - **Minesweeper Game** – Java-based game with timer, restart button, flag counter, and save-state features.  
-- **Stock Exchange Simulator** – Fake stock exchange system for processing trades and managing order books.  
-- **Flask/Django Apps** – Web apps for task management and user profiles (PostgreSQL backend).  
+- **Stock Exchange Simulator** – Fake stock exchange system for processing trades and managing order books.   
 - **Web Scraping Tools** – Data extraction projects using Python (BeautifulSoup) and Java (Jsoup).  
 
 ---
 ## About Me
-- Always learning and building practical tools.  
-- Interested in software engineering, databases, and full-stack development.  
-- Open to job opportunities in **software engineering** and **backend development**. 
+- I like building practical tools, backend services, and small systems that are easy to reason about and maintain.  
+- Interested in **software engineering**, **backend development**, and **developer tooling / infrastructure**. 
+- Open to full-time job opportunities in backend/Full-Stack/Software Engineering.
 
-Reach me at **haniksator@gmail.com** · [LinkedIn](https://linkedin.com/in/haniksator) · [Portfolio](https://github.com/haniksator) 
+Reach me at **haniksator@gmail.com** · [LinkedIn](https://linkedin.com/in/haniksator) · [Portfolio](https://haniksator.github.io) 
