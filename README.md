@@ -1,7 +1,7 @@
 ## Hi there, I'm Hanik Sator 👋
 
-**Software Engineer based in Chicago**
-B.S. Computer Science, DePaul University (Dec 2025)
+**Software Engineer based in Chicago**<br>
+B.S. Computer Science, DePaul University (Dec 2025)<br>
 GPA: **4.0** · Dean's List (2023-2025)
 
 ---
