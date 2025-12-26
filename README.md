@@ -1,7 +1,7 @@
 ## Hi there, I'm Hanik Sator 👋
 
 **Software Engineer based in Chicago**<br>
-B.S. Computer Science, DePaul University (Dec 2025)<br>
+B.S. Computer Science, DePaul University (Nov 2025)<br>
 GPA: **4.0** · Dean's List (2023-2025)
 
 ---
@@ -26,7 +26,6 @@ Most of my work centers around **Java**, **Python**, and modern web technologies
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
